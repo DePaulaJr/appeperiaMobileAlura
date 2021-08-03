@@ -14,22 +14,28 @@
 
     box-sizing: border-box;
 
-    background-repeat: no-repeat;
-    background-position: top 1.25rem left 2.5rem;
-
     padding: 2rem 0 2rem 5rem;
 }
 
 .diferenciais__item--tempo {
     background-image: url(icone-relogio.png);
+
+    background-repeat: no-repeat;
+    background-position: top 1.25rem left 2.5rem;
 }
 
 .diferenciais__item--foco {
     background-image: url(icone-dinheiro.png);
+
+    background-repeat: no-repeat;
+    background-position: top 1.25rem left 2.5rem;
 }
 
 .diferenciais__item--especialistas {
     background-image: url(icone-quimica.png);
+
+    background-repeat: no-repeat;
+    background-position: top 1.25rem left 2.5rem;
 }
 
 .item__titulo {
